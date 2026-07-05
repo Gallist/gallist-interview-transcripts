@@ -142,5 +142,17 @@
     "chars": 9031,
     "share_url": "https://d.biji.com/GMr2V0xNjdTXtRCL",
     "entity_id": "1914731270995873648"
+  },
+  {
+    "seq": 13,
+    "base": "13_2026-07-05_测试2",
+    "orig_title": "访谈稿-测试2",
+    "date": "2026-07-05",
+    "label": "测试2",
+    "n_spk": 1,
+    "chars": 27,
+    "turns": 1,
+    "share_url": "https://www.biji.com/note/1914764776035148640",
+    "entity_id": "1914764776035148640"
   }
 ]
